@@ -16,7 +16,7 @@ Nombre de participants : 1
 
 Technologies : JavaScript
 
-IDE : VsCode
+IDE : VSCode
 
 OS : Windows
 
