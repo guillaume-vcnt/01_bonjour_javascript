@@ -22,4 +22,4 @@ OS : Windows
 
 ## Utilisation 
 
-S'exécute via (https://guillaume-vcnt.github.io/01_bonjour_javascript/)
+S'exécute via https://guillaume-vcnt.github.io/01_bonjour_javascript
