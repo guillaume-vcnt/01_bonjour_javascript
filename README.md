@@ -22,4 +22,4 @@ OS : Windows
 
 ## Utilisation 
 
-S'exécute via la Console
+S'exécute via (https://guillaume-vcnt.github.io/01_bonjour_javascript/)
